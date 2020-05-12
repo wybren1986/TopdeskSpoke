@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>false</can_edit_in_studio>
+        <enforce_license>enforce</enforce_license>
+        <guided_setup_guid/>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_category>none</license_category>
+        <license_model>app_use</license_model>
+        <logo>f8fb4de0db305850f7b4f7461d961945</logo>
+        <menu/>
+        <name>Topdesk Spoke</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_bocn_topdesk_spo</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>Topdesk API Spoke</short_description>
+        <source>x_bocn_topdesk_spo</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>wybren.vanbeemdelust@bnc.nl</sys_created_by>
+        <sys_created_on>2020-05-12 08:45:29</sys_created_on>
+        <sys_id>2cfb45a4db305850f7b4f7461d96194f</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>wybren.vanbeemdelust@bnc.nl</sys_updated_by>
+        <sys_updated_on>2020-05-12 08:47:27</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>download.png</file_name>
+        <hash>8aa1b872e02fcb71afba5e8157f3676a087b6194e0d8d5dc66d9313e578790a9</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>1789</size_bytes>
+        <size_compressed>1812</size_compressed>
+        <state>available</state>
+        <sys_created_by>wybren.vanbeemdelust@bnc.nl</sys_created_by>
+        <sys_created_on>2020-05-12 08:45:30</sys_created_on>
+        <sys_id>f8fb4de0db305850f7b4f7461d961945</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-05-12 08:45:30</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>2cfb45a4db305850f7b4f7461d96194f</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="download.png" sys_id="f8fb4de0db305850f7b4f7461d961945">f8fb4de0db305850f7b4f7461d961945</sys_attachment>
+        <sys_created_by>wybren.vanbeemdelust@bnc.nl</sys_created_by>
+        <sys_created_on>2020-05-12 08:45:30</sys_created_on>
+        <sys_id>3cfb4de0db305850f7b4f7461d961945</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2404</length>
+        <position>1</position>
+        <sys_attachment display_value="download.png" sys_id="f8fb4de0db305850f7b4f7461d961945">f8fb4de0db305850f7b4f7461d961945</sys_attachment>
+        <sys_created_by>wybren.vanbeemdelust@bnc.nl</sys_created_by>
+        <sys_created_on>2020-05-12 08:45:30</sys_created_on>
+        <sys_id>bcfb4de0db305850f7b4f7461d961945</sys_id>
+    </sys_attachment_doc>
+</record_update>
