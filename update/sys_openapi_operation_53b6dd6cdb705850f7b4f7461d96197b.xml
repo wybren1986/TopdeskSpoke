@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_openapi_operation">
+    <sys_openapi_operation action="INSERT_OR_UPDATE">
+        <complex_object_ids>6ab69d6cdb705850f7b4f7461d961958,eab69d6cdb705850f7b4f7461d96195c,e2b69d6cdb705850f7b4f7461d96194c,32b69d6cdb705850f7b4f7461d9619c2,beb69d6cdb705850f7b4f7461d9619bd,a2b69d6cdb705850f7b4f7461d96194a,2ab61924db705850f7b4f7461d961963,3eb69d6cdb705850f7b4f7461d9619d8,76b69d6cdb705850f7b4f7461d9619ee,feb69d6cdb705850f7b4f7461d9619e1,2ab69d6cdb705850f7b4f7461d961956,feb69d6cdb705850f7b4f7461d961985,66b69d6cdb705850f7b4f7461d961950,eeb69d6cdb705850f7b4f7461d961964,e2b69d6cdb705850f7b4f7461d96196d,feb69d6cdb705850f7b4f7461d9619bf,6eb69d6cdb705850f7b4f7461d961960,bab69d6cdb705850f7b4f7461d9619d4,a6b69d6cdb705850f7b4f7461d961952,72b69d6cdb705850f7b4f7461d9619c4,fab69d6cdb705850f7b4f7461d9619d6,b6b69d6cdb705850f7b4f7461d9619f0,aab69d6cdb705850f7b4f7461d96195a,c7b6dd6cdb705850f7b4f7461d96192c,7eb69d6cdb705850f7b4f7461d9619bb,3ab69d6cdb705850f7b4f7461d961977,62b69d6cdb705850f7b4f7461d961969,7eb69d6cdb705850f7b4f7461d961981,f6b69d6cdb705850f7b4f7461d961975,7eb69d6cdb705850f7b4f7461d9619da,b2b69d6cdb705850f7b4f7461d9619e8,3eb69d6cdb705850f7b4f7461d96197f,b6b69d6cdb705850f7b4f7461d961973,beb69d6cdb705850f7b4f7461d961983,22b69d6cdb705850f7b4f7461d961967,7ab69d6cdb705850f7b4f7461d961979,aeb69d6cdb705850f7b4f7461d961962,f6b69d6cdb705850f7b4f7461d9619f2,26b69d6cdb705850f7b4f7461d96194e,36b69d6cdb705850f7b4f7461d96196f,a6b61924db705850f7b4f7461d961966,2eb69d6cdb705850f7b4f7461d96195e,3eb69d6cdb705850f7b4f7461d9619b9,36b69d6cdb705850f7b4f7461d9619ec,e6b69d6cdb705850f7b4f7461d961954,bab69d6cdb705850f7b4f7461d96197b,76b69d6cdb705850f7b4f7461d961971,a2b69d6cdb705850f7b4f7461d96196b,fab69d6cdb705850f7b4f7461d96197d,7ab69d6cdb705850f7b4f7461d9619d2</complex_object_ids>
+        <deprecated>false</deprecated>
+        <http_method>post</http_method>
+        <name>Unarchives a capability.</name>
+        <openapi display_value="Asset Management REST API - v1.17.0">c2b61924db705850f7b4f7461d961960</openapi>
+        <path>/assetmgmt/capabilities/{capabilityId}/unarchive</path>
+        <serialized_operation>{"fName":"Unarchives a capability.","fOperationId":"unarchiveCapability","fPath":"/assetmgmt/capabilities/{capabilityId}/unarchive","fHttpMethod":"POST","fDeprecated":false,"fResponses":[{"fStatusCode":"200","fDescription":"On successful unarchive","fContents":[{"fMediaType":"application/json","fSchema":{"fName":"responseapplicationjson0187731177","fReferencedName":"#/components/schemas/CapabilityDto","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fProperties":[],"fOneOf":[],"fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"object"}}],"fHeaders":[]},{"fStatusCode":"400","fDescription":"If capability isn\u0027t archived.","fContents":[],"fHeaders":[]},{"fStatusCode":"403","fDescription":"When user doesn\u0027t have \u0027archive\u0027 permission for templates.","fContents":[],"fHeaders":[]}],"fParameters":[{"fName":"capabilityId","fDescription":"Id of the capability","fRequired":true,"fDeprecated":false,"fAllowEmptyValue":false,"fAllowReserved":false,"fParameterType":"path","fExplode":false,"fStyle":"simple","fContents":[{"fSchema":{"fName":"capabilityId8800647167","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fType":"string","fProperties":[],"fOneOf":[],"fFormat":"uuid","fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"string"}}]}]}</serialized_operation>
+        <sys_class_name>sys_openapi_operation</sys_class_name>
+        <sys_created_by>wybren.vanbeemdelust@bnc.nl</sys_created_by>
+        <sys_created_on>2020-05-12 09:32:38</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>53b6dd6cdb705850f7b4f7461d96197b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Unarchives a capability.</sys_name>
+        <sys_package display_value="Topdesk Spoke" source="x_bocn_topdesk_spo">2cfb45a4db305850f7b4f7461d96194f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Topdesk Spoke">2cfb45a4db305850f7b4f7461d96194f</sys_scope>
+        <sys_update_name>sys_openapi_operation_53b6dd6cdb705850f7b4f7461d96197b</sys_update_name>
+        <sys_updated_by>wybren.vanbeemdelust@bnc.nl</sys_updated_by>
+        <sys_updated_on>2020-05-12 09:32:38</sys_updated_on>
+    </sys_openapi_operation>
+</record_update>

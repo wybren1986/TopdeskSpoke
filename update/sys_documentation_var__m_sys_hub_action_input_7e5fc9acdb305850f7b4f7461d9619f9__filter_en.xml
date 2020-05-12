@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="_filter" label="Filter" language="en" table="var__m_sys_hub_action_input_7e5fc9acdb305850f7b4f7461d9619f9">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>_filter</element>
+            <help/>
+            <hint>Supports a limited set of simple odata filters. 
+Filtering assets based on the objectid field with greater-than operator (Ex $filter=name gt ‘My Object’). 
+Filtering assets based on date fields with greater-than, or less-than operator. Dates are interpreted as UTC dates (Ex $filter=modificationDate gt ‘2017’ and modificationDate lt ‘2017-05-26’). Supported formats: yyyy (2017); yyyy-MM (2017-12); yyyy-MM-dd (2017-12-25); yyyy-MM-dd’T’HH:mm (2017-12-25T18:30); yyyy-MM-dd’T’HH:mm:ss (2017-12-25T18:30:12); yyyy-MM-dd’T’HH:mm:ss.SSS (2017-12-25T18:30:12.798). 
+Filtering based on a linked entity. Ex $filter=linkedTo eq 'incident/2eebf650-c5d7-4bf3-ad05-1f4cbced3b06’. 
+Filtering based on a text field. Use the ‘contains’ operator. Ex $filter=specification contains 'desk’. Filtering based on a checkbox field on false and true values. Ex $filter=termsandconditions eq 'false’. 
+Filtering based on a number field. Ex $filter=cost eq 15, $filter=cost ge 40. - -   Filtering based on a dropdown field. Ex $filter=dropdown-field eq '2eebf650-c5d7-4bf3-ad05-1f4cbced3b06’.</hint>
+            <label>Filter</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_7e5fc9acdb305850f7b4f7461d9619f9</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>wybren.vanbeemdelust@bnc.nl</sys_created_by>
+            <sys_created_on>2020-05-12 09:44:12</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>7c6995e0dbb05850f7b4f7461d9619b0</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Filter</sys_name>
+            <sys_package display_value="Topdesk Spoke" source="x_bocn_topdesk_spo">2cfb45a4db305850f7b4f7461d96194f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Topdesk Spoke">2cfb45a4db305850f7b4f7461d96194f</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_input_7e5fc9acdb305850f7b4f7461d9619f9__filter_en</sys_update_name>
+            <sys_updated_by>wybren.vanbeemdelust@bnc.nl</sys_updated_by>
+            <sys_updated_on>2020-05-12 09:53:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

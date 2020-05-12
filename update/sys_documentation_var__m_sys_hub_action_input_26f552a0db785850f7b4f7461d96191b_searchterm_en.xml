@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="searchterm" label="Seach Fragment" language="en" table="var__m_sys_hub_action_input_26f552a0db785850f7b4f7461d96191b">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>searchterm</element>
+            <help/>
+            <hint/>
+            <label>Seach Fragment</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_26f552a0db785850f7b4f7461d96191b</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>wybren.vanbeemdelust@bnc.nl</sys_created_by>
+            <sys_created_on>2020-05-12 14:08:55</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>26f51ea8db785850f7b4f7461d9619af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Seach Fragment</sys_name>
+            <sys_package display_value="Topdesk Spoke" source="x_bocn_topdesk_spo">2cfb45a4db305850f7b4f7461d96194f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Topdesk Spoke">2cfb45a4db305850f7b4f7461d96194f</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_input_26f552a0db785850f7b4f7461d96191b_searchterm_en</sys_update_name>
+            <sys_updated_by>wybren.vanbeemdelust@bnc.nl</sys_updated_by>
+            <sys_updated_on>2020-05-12 14:08:55</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
